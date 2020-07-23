@@ -1,6 +1,9 @@
 # Node EJS complete boilerplate
 
 A complete Node ESJ boilerplate setup with jest, webpack, sass, eslint, prettier, pre-configured.
+  
+[![](https://github.com/manjillama/node-ejs-boilerplate/workflows/build/badge.svg)](https://github.com/manjillama/node-ejs-boilerplate/actions)
+[![](https://img.shields.io/badge/code%20style-airbnb-brightgreen)](https://github.com/airbnb/javascript)
 
 ## Available Scripts
 
@@ -19,7 +22,7 @@ Open [http://localhost:8080](http://localhost:3000) to view it in the browser.
 
 ### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br>
+Launches the test runner.<br>
 
 ### `yarn build:client`
 
