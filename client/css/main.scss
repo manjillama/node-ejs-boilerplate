@@ -1,0 +1,17 @@
+$font-stack: 'Roboto', sans-serif;
+
+html,
+body {
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: $font-stack;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0;
+  color: #2c3543;
+  line-height: 1.5;
+  background-color: #fff;
+  letter-spacing: 0.3px;
+  -moz-osx-font-smoothing: grayscale;
+}
